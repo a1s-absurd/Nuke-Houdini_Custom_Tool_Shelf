@@ -5,30 +5,6 @@ Custom Tools for Houdini & Nuke
 
 This repository contains custom Python scripts designed to streamline workflows in Nuke and Houdini. These scripts automate common tasks like versioning, EXR splitting, publishing, and node cleanup, reducing repetitive manual work and enforcing naming/organization standards.
 
-Table of Contents
-
-Overview
-
-Features
-
-Nuke Tools
-
-Houdini Tools
-
-Installation
-
-Usage
-
-Nuke
-
-Houdini
-
-Requirements
-
-Support
-
-Overview
-
 These scripts provide:
 
 Automated creation of standardized Write nodes.
