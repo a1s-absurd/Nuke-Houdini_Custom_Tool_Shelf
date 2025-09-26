@@ -1,0 +1,29 @@
+{
+    "tool_shelf_name": "Nuke-Houdini_Custom_Tool_Shelf",
+    "description": "Python files to customize Nuke and Houdini interface by creating custom nodes for cleaner workflow.",
+    "tools": {
+        "Houdini": {
+            "Version-Up HIP": {
+                "description": "Click the 'Version Up' button in your custom shelf. HIP file versions up only if the filename matches the filename_version.extension format."
+            },
+            "Publish Project": {
+                "description": "Click 'Publish Project.' Choose a destination (OneDrive) and whether to include cache files. The project copies to the shared drive."
+            },
+            "Add OUT Null": {
+                "description": "Select one or multiple nodes. Click 'Add OUT Null.' Null nodes with OUT prefix are created, connected, positioned neatly, and colored black."
+            }
+        },
+        "Nuke": {
+            "Custom Write Node": {
+                "description": "Go to the toolbar \u2192 Custom \u2192 'Create Write Node.' A Write node with prefilled paths appears based on your project/shot info."
+            },
+            "Split EXR": {
+                "description": "Select a Read node pointing to a multi-channel EXR file. Click the 'Split EXR' button. Shuffle nodes for each channel are created automatically."
+            },
+            "Cleanup Script": {
+                "description": "From the menu: Tools \u2192 'Clean Up Script.' All unnecessary nodes are removed and the graph is optimized."
+            }
+        }
+    },
+    "author": "Anshul_Swamy"
+}
