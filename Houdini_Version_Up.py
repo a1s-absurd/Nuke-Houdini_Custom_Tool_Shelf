@@ -65,5 +65,5 @@ def version_up_current_hip():
 
     hou.ui.displayMessage("Saved new version:\n\n{}".format(new_path))
 
-# Run tool
+
 version_up_current_hip()
