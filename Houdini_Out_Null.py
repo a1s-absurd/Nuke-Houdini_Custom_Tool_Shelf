@@ -28,5 +28,5 @@ def add_out_nulls_to_selected():
 
     hou.ui.displayMessage("Added _OUT_ Null nodes to {} node(s).".format(len(selected_nodes)))
 
-# Run the tool
+
 add_out_nulls_to_selected()
