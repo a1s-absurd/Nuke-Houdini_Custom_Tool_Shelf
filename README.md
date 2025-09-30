@@ -20,7 +20,7 @@ Null nodes with _OUT_ prefix are created, connected, positioned neatly, and colo
 
 🎬 Nuke Tools
 1) Custom Write Node
-Go to the toolbar → Custom → “Create Write Node.”
+Copy and Paste the code to the nuke script editor.
 A Write node with prefilled paths appears based on your project/shot info.
 
 2) Split EXR
@@ -29,7 +29,7 @@ Click the “Split EXR” button.
 Shuffle nodes for each channel are created automatically.
 
 3) Cleanup Script
-From the menu: Tools → “Clean Up Script.”
+Copy and Paste the code to the nuke script editor.
 All unnecessary nodes are removed and the graph is optimized.
 
  **PS:-LLM's were used to increase the quality, readability and efficiency of the code.**
