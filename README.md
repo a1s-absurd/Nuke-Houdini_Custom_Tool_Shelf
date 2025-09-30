@@ -20,16 +20,16 @@ Null nodes with _OUT_ prefix are created, connected, positioned neatly, and colo
 
 🎬 Nuke Tools
 1) Custom Write Node
-/n Copy and Paste the code to the nuke script editor.
+ Copy and Paste the code to the nuke script editor.
 A Write node with prefilled paths appears based on your project/shot info.
 
 2) Split EXR
-/n Select a Read node pointing to a multi-channel EXR file.
+Select a Read node pointing to a multi-channel EXR file.
 Click the “Split EXR” button.
 Shuffle nodes for each channel are created automatically.
 
 3) Cleanup Script
-/n Copy and Paste the code to the nuke script editor.
+ Copy and Paste the code to the nuke script editor.
 All unnecessary nodes are removed and the graph is optimized.
 
  **PS:-LLM's were used to increase the quality, readability and efficiency of the code.**
