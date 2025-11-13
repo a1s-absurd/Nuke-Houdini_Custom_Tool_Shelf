@@ -1,5 +1,5 @@
 def split_exr():
-    """Splits a multi-channel EXR into multiple Shuffle nodes."""
+
     sel = nuke.selectedNode()
     if sel.Class() != "Read":
         nuke.message("Please select a Read node that imports a .exr file.")
